@@ -28,4 +28,4 @@ javascript
 openai
 replit
 Try it out
- mental-health-chatbot.monishmalla.repl.co
+mental-health-chatbot.monishmalla.repl.co
