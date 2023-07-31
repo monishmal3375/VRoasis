@@ -1,4 +1,4 @@
-# VRoasis
+# Mental Health Chatbot
 
 Inspiration
 The inspiration for our project is that there is more awareness of mental health now. The development of many AI Chatbots allows people to talk to the AI. We decided to make a chatbot that can specialize in providing mental health advice using AI so that it can help with any mental health problems that people are having.
