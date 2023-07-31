@@ -29,8 +29,4 @@ openai
 replit
 Try it out
 
-[Mental Health Chatbot](#header-name)
-
-
-### Mental Health Chatbot
-https://mental-health-chatbot.monishmalla.repl.co
+[Mental Health Chatbot](https://mental-health-chatbot.monishmalla.repl.co/)
